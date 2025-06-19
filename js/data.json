@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "ten": "Website Quản Lý Quán Cafe (Laravel)",
+    "gia": 300000,
+    "hinhanh": "./img/products/product1_thumb.jpg",
+    "danhgia": 5,
+    "loai": "LARAVEL",
+    "bo_nho": ["Code đầy đủ", "Responsive", "Có admin"]
+  },
+  {
+    "id": 2,
+    "ten": "Website Bán Hoa (Laravel)",
+    "gia": 320000,
+    "hinhanh": "./img/products/product2_thumb.jpg",
+    "danhgia": 4,
+    "loai": "LARAVEL",
+    "bo_nho": ["Laravel 9", "AJAX", "Cart"]
+  },
+  {
+    "id": 3,
+    "ten": "Website Tin Tức Laravel",
+    "gia": 280000,
+    "hinhanh": "./img/products/product3_thumb.jpg",
+    "danhgia": 5,
+    "loai": "LARAVEL",
+    "bo_nho": ["Laravel", "Bootstrap", "CMS"]
+  },
+  {
+    "id": 4,
+    "ten": "Website Shop Laravel Mini",
+    "gia": 210000,
+    "hinhanh": "./img/products/product4_thumb.jpg",
+    "danhgia": 3,
+    "loai": "LARAVEL",
+    "bo_nho": ["Laravel", "Auth", "Giỏ hàng"]
+  },
+  {
+    "id": 5,
+    "ten": "Website Bán Hàng PHP - MySQL",
+    "gia": 250000,
+    "hinhanh": "./img/products/product2_thumb.jpg",
+    "danhgia": 4,
+    "loai": "PHP",
+    "bo_nho": ["Code thuần", "MySQL", "Đăng nhập"]
+  },
+  {
+    "id": 6,
+    "ten": "Web Quản Lý Khách Sạn PHP",
+    "gia": 230000,
+    "hinhanh": "./img/products/product3_thumb.jpg",
+    "danhgia": 4,
+    "loai": "PHP",
+    "bo_nho": ["PHP", "CRUD", "MySQL"]
+  },
+  {
+    "id": 7,
+    "ten": "Web Shop Điện Tử PHP",
+    "gia": 270000,
+    "hinhanh": "./img/products/product4_thumb.jpg",
+    "danhgia": 5,
+    "loai": "PHP",
+    "bo_nho": ["PHP", "Giỏ hàng", "Thanh toán"]
+  },
+  {
+    "id": 8,
+    "ten": "Blog Cá Nhân PHP đơn giản",
+    "gia": 180000,
+    "hinhanh": "./img/products/product5_thumb.jpg",
+    "danhgia": 3,
+    "loai": "PHP",
+    "bo_nho": ["PHP", "TinyMCE", "MySQL"]
+  },
+  {
+    "id": 9,
+    "ten": "Phần mềm Winform Quản Lý Sinh Viên",
+    "gia": 150000,
+    "hinhanh": "./img/products/product1_thumb.jpg",
+    "danhgia": 4,
+    "loai": "WINFORM",
+    "bo_nho": ["C#", "SQL Server", "CRUD"]
+  },
+  {
+    "id": 10,
+    "ten": "App Winform Quản Lý Thư Viện",
+    "gia": 160000,
+    "hinhanh": "./img/products/product2_thumb.jpg",
+    "danhgia": 4,
+    "loai": "WINFORM",
+    "bo_nho": ["C#", "Windows Form", "Báo cáo"]
+  },
+  {
+    "id": 11,
+    "ten": "App Bán Hàng C# Winform",
+    "gia": 190000,
+    "hinhanh": "./img/products/product3_thumb.jpg",
+    "danhgia": 5,
+    "loai": "WINFORM",
+    "bo_nho": ["Winform", "SQL", "Hóa đơn"]
+  },
+  {
+    "id": 12,
+    "ten": "Quản Lý Nhân Viên Winform",
+    "gia": 140000,
+    "hinhanh": "./img/products/product4_thumb.jpg",
+    "danhgia": 3,
+    "loai": "WINFORM",
+    "bo_nho": ["C#", "Entity Framework", "Thống kê"]
+  },
+  {
+    "id": 13,
+    "ten": "Game Bắn Súng Unity 2D",
+    "gia": 120000,
+    "hinhanh": "./img/products/product1_thumb.jpg",
+    "danhgia": 4,
+    "loai": "GAME",
+    "bo_nho": ["Unity", "Build WebGL", "Full Source"]
+  },
+  {
+    "id": 14,
+    "ten": "Game Flappy Bird Clone",
+    "gia": 100000,
+    "hinhanh": "./img/products/product2_thumb.jpg",
+    "danhgia": 5,
+    "loai": "GAME",
+    "bo_nho": ["Unity", "Mobile Build", "Assets Included"]
+  },
+  {
+    "id": 15,
+    "ten": "Game Nối Hình Puzzle HTML5",
+    "gia": 90000,
+    "hinhanh": "./img/products/product3_thumb.jpg",
+    "danhgia": 3,
+    "loai": "GAME",
+    "bo_nho": ["JavaScript", "Canvas", "Mobile"]
+  },
+  {
+    "id": 16,
+    "ten": "Game Đua Xe WebGL",
+    "gia": 130000,
+    "hinhanh": "./img/products/product4_thumb.jpg",
+    "danhgia": 4,
+    "loai": "GAME",
+    "bo_nho": ["Unity", "Physics", "Racing"]
+  },
+  {
+    "id": 17,
+    "ten": "Website Tin Tức ASP.NET",
+    "gia": 270000,
+    "hinhanh": "./img/products/product2_thumb.jpg",
+    "danhgia": 5,
+    "loai": "ASP.NET",
+    "bo_nho": ["MVC", "SQL Server", "Bootstrap"]
+  },
+  {
+    "id": 18,
+    "ten": "ASP.NET Quản Lý Công Việc",
+    "gia": 290000,
+    "hinhanh": "./img/products/product3_thumb.jpg",
+    "danhgia": 4,
+    "loai": "ASP.NET",
+    "bo_nho": ["ASP.NET", "Identity", "Todo App"]
+  },
+  {
+    "id": 19,
+    "ten": "Web Bán Hàng ASP.NET Razor",
+    "gia": 310000,
+    "hinhanh": "./img/products/product4_thumb.jpg",
+    "danhgia": 5,
+    "loai": "ASP.NET",
+    "bo_nho": [".NET 6", "EF Core", "Cart"]
+  },
+  {
+    "id": 20,
+    "ten": "Trang Giới Thiệu ASP.NET",
+    "gia": 220000,
+    "hinhanh": "./img/products/product5_thumb.jpg",
+    "danhgia": 3,
+    "loai": "ASP.NET",
+    "bo_nho": ["ASP.NET", "Bootstrap", "Static"]
+  },
+  {
+    "id": 21,
+    "ten": "Landing Page Dịch Vụ",
+    "gia": 100000,
+    "hinhanh": "./img/products/product1_thumb.jpg",
+    "danhgia": 3,
+    "loai": "WEBSITE",
+    "bo_nho": ["HTML", "CSS", "Responsive"]
+  },
+  {
+    "id": 22,
+    "ten": "Website Giới Thiệu Công Ty",
+    "gia": 120000,
+    "hinhanh": "./img/products/product2_thumb.jpg",
+    "danhgia": 4,
+    "loai": "WEBSITE",
+    "bo_nho": ["HTML", "Bootstrap", "Contact"]
+  },
+  {
+    "id": 23,
+    "ten": "Portfolio Cá Nhân Đẹp",
+    "gia": 130000,
+    "hinhanh": "./img/products/product3_thumb.jpg",
+    "danhgia": 5,
+    "loai": "WEBSITE",
+    "bo_nho": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 24,
+    "ten": "Website Dịch Vụ Sửa Chữa",
+    "gia": 110000,
+    "hinhanh": "./img/products/product4_thumb.jpg",
+    "danhgia": 3,
+    "loai": "WEBSITE",
+    "bo_nho": ["HTML", "jQuery", "Slide show"]
+  }
+]
